@@ -1,0 +1,9 @@
+[submodule "marti_common"]
+	path = marti_common
+	url = https://github.com/swri-robotics/marti_common.git
+[submodule "marti_messages"]
+	path = marti_messages
+	url = https://github.com/swri-robotics/marti_messages.git
+[submodule "novatel_gps_driver"]
+	path = novatel_gps_driver
+	url = https://github.com/swri-robotics/novatel_gps_driver.git
